@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 * 👬 I’m looking to collaborate on challenging research topics in Nonlinear Control/ Switched System Analysis.
-🌱 I’m currently learning about new developments in adaptive controllers using Lyapunov design techniques.
-💬 I enjoy discussions about how lyapunov design methodology is applied in different domains, and ways to stabilize a controller.
-😄 Pronouns: he/him
-⚾ Fun fact: I am an avid dancer and I also have my own youtube dance channel!
-👦 Know more about me: Personal Website
+* 🌱 I’m currently learning about new developments in adaptive controllers using Lyapunov design techniques.
+* 💬 I enjoy discussions about how lyapunov design methodology is applied in different domains, and ways to stabilize a controller.
+* 😄 Pronouns: he/him
+* 🕺🏽 Fun fact: I am an avid dancer and I also have my own youtube dance channel!
+* 👦 Know more about me: [Personal Website](https://kaushikjadav1811.wixsite.com/my-site)
 
 <!--
 **kaushik-jadav/kaushik-jadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
