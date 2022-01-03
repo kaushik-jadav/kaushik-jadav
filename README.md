@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-👬 I’m looking to collaborate on challenging research topics in Nonlinear Control/ Switched System Analysis.
-
+* 👬 I’m looking to collaborate on challenging research topics in Nonlinear Control/ Switched System Analysis.
 🌱 I’m currently learning about new developments in adaptive controllers using Lyapunov design techniques.
 💬 I enjoy discussions about how lyapunov design methodology is applied in different domains, and ways to stabilize a controller.
 😄 Pronouns: he/him
