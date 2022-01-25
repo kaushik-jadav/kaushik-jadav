@@ -17,6 +17,9 @@
 #### Integral Gradient Controller, Matlab, Simulink
 * [Autonomous Tilted Mass Spring Damper System with Actuator Dynamics](https://drive.google.com/file/d/1N6UaVqCDy_1bep36RFZv7_DL2hNS7soz/view?usp=sharing)  
 
+#### Integral Gradient Controller, Python
+* [Two Link Dynamic System](https://drive.google.com/file/d/1dU0wle8FK6-64OXOSSdeJKz8FonJiFjn/view?usp=sharing)
+
 #### Robust Controller, Matlab, Simulink
 * [Lyapunov Based Design for Two wheeled Robot](https://drive.google.com/file/d/1FnnX7Hrwap-JqkDSVObj-YBKnKOWS-SG/view?usp=sharing)
 
