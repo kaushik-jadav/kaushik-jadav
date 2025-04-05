@@ -7,6 +7,10 @@
 * 🕺🏽 Fun fact: I am an avid dancer and I also have my own youtube dance channel!
 * 👦 Know more about me: [Personal Website](https://kaushikjadav1811.wixsite.com/my-site)
 
+### Linear Control
+#### PID Controller, Vehicle Cruise Control Dynamics, Matlab, Simulink
+* [Vehicle Cruise Control](https://drive.google.com/file/d/1J94-mnPKZUTk5ExDDye44c4kS0Wb2kXT/view?usp=sharing)
+
 ### Nonlinear Control
 #### Adaptive Controller, Nonlinear Dynamics, Matlab, Simulink
 * [Switched Systems Approach to Tracking Control of Vehicles with Intermittent Feedback](https://drive.google.com/file/d/1JETDlw2sgi4vDaijrQSRo-VNtcCYBVbK/view?usp=sharing)
