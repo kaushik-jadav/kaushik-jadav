@@ -27,6 +27,8 @@
 #### Robust Controller, Matlab, Simulink
 * [Lyapunov Based Design for Two wheeled Robot](https://drive.google.com/file/d/1FnnX7Hrwap-JqkDSVObj-YBKnKOWS-SG/view?usp=sharing)
 
+#### Self Driving Cars, Matlab, Simulink
+* [Obstacle Detection](https://drive.google.com/file/d/1u5RIKlxcyjJManlbCEDQHP4gd-i4yLKS/view?usp=drive_link)
 
 ### Machine Learning
 #### Convolutional Neural Network, Python
